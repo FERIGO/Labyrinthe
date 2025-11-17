@@ -19,7 +19,7 @@ const graphe = {
 'f44ck9' : ['i647rs', 'u51d7y', 'v7k4mn'],
 'u51d7y' : ['93bse4', '51fp7a', 'i647rs'],
 'i647rs' : ['u51d7y', '51fp7a', 'f44ck9'],
-'v7k4mn' : ['o2u56e', '182vd4', 'o2u56e'],
+'v7k4mn' : ['o2u56e', '182vd4', '51fp7a'],
 '182vd4' : ['93bse4', 'f44ck9', 'v92cd3']
 }
 
@@ -41,3 +41,4 @@ if (clics > 6){
 	initialiserCompteur();
 	window.location.href = chemin+'51fp7a.html';
 }
+
